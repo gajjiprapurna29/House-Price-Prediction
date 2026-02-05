@@ -30,5 +30,5 @@ To develop a machine learning model that can estimate house prices accurately us
 ---
 
 ## 📂 Project Structure
-![Prediction_Page](output_images/House_vs_sales price.png)
+![Prediction_Page](output_images/House_vs_salesprice.png)
 ![Prediction_Page](output_images/prediction.png)
